@@ -4,7 +4,7 @@
 Welcome to our Book Store Website! This project is a simple web application built using HTML, CSS, and JavaScript to create an online platform for browsing and purchasing books.
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/SR-book-store/#]
+Here is the live domo of project[https://sac-rjk.github.io/SR-Book-Store/]
 
 
 
